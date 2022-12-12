@@ -1,0 +1,56 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color: indianred;
+    font-size: 36px;
+}
+.text-align-centre{
+    text-align: center;
+}
+/* .font-normal{
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+} */
+.font-accent{
+    font-size: 1.4em;
+    font-family: 'Unbounded', cursive;
+}
+a{
+    font-size: 0.7em;
+    text-decoration: none;
+    color: indianred;
+}
+ul.nav-info{
+    margin: 0;
+    padding: 5px;
+}
+ul.nav-info li{
+    display: inline-block;
+    margin-right: 5px;
+}
+h1{
+    text-decoration: none;
+    margin-bottom: 8px;
+}
+.subtitle{
+    font-size: 36px;
+    border-top: 1px solid indianred ;
+    border-bottom: 1px solid indianred;
+    padding: 0.5em;
+    padding-left: 0;
+
+}
+p{
+    font-size: 20px;
+    line-height: 1em;
+}
+img{
+    width: 300px;
+    height: 250px;
+    padding: 0.2em;
+    border: 1px solid transparent;
+    box-shadow: 0 0 5px indianred;
+    border-radius: 6%;
+    object-fit: cover;
+    object-position: top center bottom;
+    
+}
