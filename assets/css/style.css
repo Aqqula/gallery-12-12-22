@@ -32,7 +32,7 @@ h1{
     margin-bottom: 8px;
 }
 .subtitle{
-    font-size: 36px;
+    font-size: inherit;
     border-top: 1px solid indianred ;
     border-bottom: 1px solid indianred;
     padding: 0.5em;
@@ -40,7 +40,7 @@ h1{
 
 }
 p{
-    font-size: 20px;
+    font-size: 0.6em;
     line-height: 1em;
 }
 img{
