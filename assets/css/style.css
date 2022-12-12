@@ -23,7 +23,7 @@ ul.nav-info{
     margin: 0;
     padding: 5px;
 }
-ul.nav-info li{
+ul li{
     display: inline-block;
     margin-right: 5px;
 }
